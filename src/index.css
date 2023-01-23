@@ -28,13 +28,17 @@ body {
 
 img {
   width: 250px;
-  border-radius: 100%;
+  border-radius: 14%;
 }
 
 .box {
-  background-color: rgb(40, 37, 37);
+  background-color: #171717;
   padding: 35px;
   width: auto;
+}
+
+h3{
+  padding: 15px 0;
 }
 
 .input-wr {
